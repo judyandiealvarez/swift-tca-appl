@@ -1,5 +1,5 @@
 import XCTest
-@testable import swift_tca_appl
+@testable import Appl
 
 final class swift_tca_applTests: XCTestCase {
     func testExample() throws {
